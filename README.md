@@ -2,6 +2,7 @@
 
 <P>  Voici tous les codes, fichiers et modèles  3D pour le Robot Dynamixel Raspi<BR>
  
+![alt text](https://github.com/filoucool/Robot-Dynamixel/blob/main/robot.jpg?raw=true)
 
 </P>
 
